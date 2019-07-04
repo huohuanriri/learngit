@@ -8,3 +8,5 @@ ready to create bug branch
 
 
 this line is written on my devbox
+
+why do i need to config the username? i didn't do that on pc.
