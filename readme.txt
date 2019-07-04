@@ -4,3 +4,9 @@ creating a new branch is quick and simple
 
 revision: how to create a new branch
 ready to create bug branch
+
+
+
+this line is written on my devbox
+
+why do i need to config the username? i didn't do that on pc.
