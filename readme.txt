@@ -14,4 +14,6 @@ why do i need to config the username? i didn't do that on pc.
 
 this line is modified in dexbox branch
 
-haha 
+haha
+
+configuring devbox again 
